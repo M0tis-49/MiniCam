@@ -1,0 +1,18 @@
+{
+  "camera_index": 1,
+  "window_width": 320,
+  "window_height": 240,
+  "resizable": true,
+  "always_on_top": true,
+  "mirror": true,
+  "fullscreen": false,
+  "mini_mode": false,
+  "drag_mini": true,
+  "brightness": 0,
+  "contrast": 100,
+  "saturation": 100,
+  "zoom": 100,
+  "target_fps": 30,
+  "save_settings": true,
+  "live_preview": true
+}

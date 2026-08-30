@@ -1,0 +1,63 @@
+2026-08-30 00:18:56,646 INFO Opening camera 0
+2026-08-30 00:18:58,183 INFO Camera 0 opened with backend 700
+2026-08-30 00:20:30,436 INFO Opening camera 0
+2026-08-30 00:20:31,939 INFO Camera 0 opened with backend 700
+2026-08-30 00:21:32,524 INFO Opening camera 0
+2026-08-30 00:21:34,031 INFO Camera 0 opened with backend 700
+2026-08-30 00:28:49,709 INFO Opening camera 0
+2026-08-30 00:28:51,925 INFO Camera 0 opened with backend 700
+2026-08-30 00:33:45,168 INFO Opening camera 0
+2026-08-30 00:33:46,638 INFO Camera 0 opened with backend 700
+2026-08-30 00:53:53,301 INFO Opening camera 0
+2026-08-30 00:53:54,664 INFO Camera 0 opened with backend 700
+2026-08-30 01:00:40,958 INFO Opening camera 0
+2026-08-30 01:00:42,264 INFO Camera 0 opened with backend 700
+2026-08-30 01:01:00,326 INFO Opening camera 0
+2026-08-30 01:01:01,277 INFO Camera 0 opened with backend 700
+2026-08-30 01:01:01,556 INFO Camera 0 released
+2026-08-30 01:01:16,319 INFO Opening camera 1
+2026-08-30 01:01:16,516 INFO Camera 0 released
+2026-08-30 01:01:17,223 INFO Camera 1 opened with backend 700
+2026-08-30 01:08:21,365 INFO Opening camera 1
+2026-08-30 01:08:23,726 INFO Camera 1 opened with backend 700
+2026-08-30 01:22:30,335 INFO Opening camera 1
+2026-08-30 01:22:32,693 INFO Camera 1 opened with backend 700
+2026-08-30 01:26:42,811 INFO Opening camera 0
+2026-08-30 01:26:42,919 INFO Camera 1 released
+2026-08-30 01:26:44,884 INFO Camera 0 opened with backend 700
+2026-08-30 01:26:59,109 INFO Opening camera 0
+2026-08-30 01:27:00,066 INFO Camera 0 opened with backend 700
+2026-08-30 01:27:00,329 INFO Camera 0 released
+2026-08-30 01:27:14,440 INFO Opening camera 1
+2026-08-30 01:27:14,496 INFO Camera 0 released
+2026-08-30 01:27:17,190 INFO Camera 1 opened with backend 700
+2026-08-30 01:27:23,030 INFO Opening camera 1
+2026-08-30 01:27:25,225 INFO Camera 1 opened with backend 700
+2026-08-30 01:27:36,160 INFO Opening camera 1
+2026-08-30 01:27:36,292 INFO Camera 1 released
+2026-08-30 01:28:14,312 INFO Opening camera 1
+2026-08-30 01:28:17,254 INFO Camera 1 opened with backend 700
+2026-08-30 01:28:23,079 INFO Opening camera 2
+2026-08-30 01:28:24,443 ERROR Camera 2 not found
+2026-08-30 01:28:24,444 INFO Camera 1 released
+2026-08-30 01:28:28,336 INFO Opening camera 1
+2026-08-30 01:28:31,019 INFO Camera 1 opened with backend 700
+2026-08-30 01:33:36,044 INFO Opening camera 1
+2026-08-30 01:33:38,336 INFO Camera 1 opened with backend 700
+2026-08-30 01:33:44,434 INFO Opening camera 1
+2026-08-30 01:33:46,714 INFO Camera 1 opened with backend 700
+2026-08-30 01:33:58,579 INFO Opening camera 1
+2026-08-30 01:34:00,821 INFO Camera 1 opened with backend 700
+2026-08-30 01:36:37,063 INFO Opening camera 1
+2026-08-30 01:36:45,399 INFO Opening camera 1
+2026-08-30 01:36:48,037 INFO Camera 1 opened with backend 700
+2026-08-30 17:36:53,300 INFO Opening camera 1
+2026-08-30 17:36:53,843 INFO Camera 1 opened with backend 700
+2026-08-30 17:38:35,945 INFO Opening camera 1
+2026-08-30 17:38:37,852 INFO Camera 1 opened with backend 700
+2026-08-30 18:01:55,511 INFO Opening camera 1
+2026-08-30 18:01:57,630 INFO Camera 1 opened with backend 700
+2026-08-30 18:02:03,882 INFO Opening camera 1
+2026-08-30 18:02:05,827 INFO Camera 1 opened with backend 700
+2026-08-30 18:04:26,269 INFO Opening camera 1
+2026-08-30 18:04:28,310 INFO Camera 1 opened with backend 700
